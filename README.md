@@ -51,15 +51,19 @@ For a detailed breakdown of components and costs, refer to the **[Bill of Materi
 6. The PID controller modulates the Peltier module and pump to maintain the set temperature.  
 7. Monitor the real-time temperature on the OLED display.  
 
+## Technical Documents
+ - It contains the **wiring diagram** , **pseudo code**, **Bill of Material** and **mechanical drawing** for further clarifications
+
 ## Expected Outcomes  
 - **Accurate Calibration:** Maintains temperatures with **1°C resolution** and safety controls for over/under-temperature conditions.  
 - **Efficient Cooling:** Demonstrates effective heat extraction from the Peltier module to maintain sub-ambient temperatures.  
 - **User Accessibility:** Provides a simple and intuitive interface for setting and monitoring temperatures.  
-- **Cost-Effectiveness:** Developed within a budget of Rs. 4970, utilizing readily available components.  
+- **Cost-Effectiveness:** Developed within a budget of Rs. 4300, utilizing readily available components.  
 
 ## Future Enhancements  
 - Integration of Wi-Fi for remote monitoring and control.  
 - Data logging capabilities for extended calibration sessions.    
+
 
 ---
 
