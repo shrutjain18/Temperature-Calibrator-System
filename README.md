@@ -64,6 +64,11 @@ For a detailed breakdown of components and costs, refer to the **[Bill of Materi
 - Integration of Wi-Fi for remote monitoring and control.  
 - Data logging capabilities for extended calibration sessions.    
 
+#Team Members
+- Dev Garg
+- Eniyan E
+- Shrut Jain
+- Jash Muni
 
 ---
 
